@@ -66,7 +66,7 @@ def pred(text):
 
 if __name__ == '__main__':
   train()
-  print(pred('все очень хорошо'))
+  print(pred('все хорошо'))
 
  
 
