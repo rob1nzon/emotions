@@ -1,3 +1,5 @@
 pymorphy2==0.8
 pymystem3==0.1.5
 scikit_learn==0.17.1
+cv2==1.0
+numpy==1.11.1
